@@ -26,5 +26,5 @@ In the wiki of the repository, you can find informations about reuses and about 
 Aliapur is the leader company in the field of recovering end-of-life tyres in France. (SOURCE:aliapur.fr/en)
 
 ## License
-At Aliapur we have chosen the license CC-BY and we advise you to use a Creative Commons license... We can make an Open Waste together ! More informations on <a href="http://creativecommons.org/" target="_blank">creativecommons.org</a>
+At Aliapur we have chosen the license CC-BY and we advise you to use a Creative Commons license... We can make an Open Waste together ! More informations on <a href="http://creativecommons.org/" target="_blank">creativecommons.org</a><br>
 <a href="http://creativecommons.org/licenses/by/3.0/fr/" target="_blank"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/fr/88x31.png"></a><br><a href="http://creativecommons.org/licenses/by/3.0/fr/" target="_blank">Licence Creative Commons Attribution 3.0 France</a>
