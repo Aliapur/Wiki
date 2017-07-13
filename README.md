@@ -3,10 +3,7 @@ This repository is made to gather together the initiatives about recovery and re
 In the wiki of the repository, you can find informations about reuses and about the starter kit that is spread and send by Aliapur to makers, artists, creators, fablab, workshop ...
 ### You are looking for informations about the Aliapur's Starter Kit ? [Let's go to the wiki](https://github.com/Aliapur/Wiki/wiki)
 
-## Objectives of this platform
-* To be a state of the art for the recycling of used tyres
-* To inspire new products and uses that would give used tyres a second life
-* To be open source
+![](https://github.com/Aliapur/Wiki/raw/master/pictures/banniere1.png)
 
 # What can you find in this repository ?
 ## [The wiki](https://github.com/Aliapur/Wiki/wiki)
